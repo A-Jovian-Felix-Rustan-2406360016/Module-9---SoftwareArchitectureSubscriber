@@ -1,0 +1,12 @@
+C:\Users\Asus\Documents\Modules_adprog\Module9 Subscriber\subscriber\target\debug\deps\snafu-a0df1f49627e7615.d: C:\Users\Asus\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\snafu-0.7.5\src\lib.rs C:\Users\Asus\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\snafu-0.7.5\src\backtrace_inert.rs C:\Users\Asus\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\snafu-0.7.5\src\once_bool.rs C:\Users\Asus\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\snafu-0.7.5\src\error_chain.rs C:\Users\Asus\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\snafu-0.7.5\src\report.rs C:\Users\Asus\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\snafu-0.7.5\src\Snafu.md C:\Users\Asus\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\snafu-0.7.5\src\report.md C:\Users\Asus\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\snafu-0.7.5\src\../README.md
+
+C:\Users\Asus\Documents\Modules_adprog\Module9 Subscriber\subscriber\target\debug\deps\libsnafu-a0df1f49627e7615.rmeta: C:\Users\Asus\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\snafu-0.7.5\src\lib.rs C:\Users\Asus\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\snafu-0.7.5\src\backtrace_inert.rs C:\Users\Asus\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\snafu-0.7.5\src\once_bool.rs C:\Users\Asus\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\snafu-0.7.5\src\error_chain.rs C:\Users\Asus\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\snafu-0.7.5\src\report.rs C:\Users\Asus\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\snafu-0.7.5\src\Snafu.md C:\Users\Asus\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\snafu-0.7.5\src\report.md C:\Users\Asus\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\snafu-0.7.5\src\../README.md
+
+C:\Users\Asus\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\snafu-0.7.5\src\lib.rs:
+C:\Users\Asus\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\snafu-0.7.5\src\backtrace_inert.rs:
+C:\Users\Asus\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\snafu-0.7.5\src\once_bool.rs:
+C:\Users\Asus\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\snafu-0.7.5\src\error_chain.rs:
+C:\Users\Asus\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\snafu-0.7.5\src\report.rs:
+C:\Users\Asus\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\snafu-0.7.5\src\Snafu.md:
+C:\Users\Asus\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\snafu-0.7.5\src\report.md:
+C:\Users\Asus\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\snafu-0.7.5\src\../README.md:
