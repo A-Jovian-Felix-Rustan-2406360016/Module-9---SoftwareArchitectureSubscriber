@@ -1,3 +1,18 @@
-    Finished `dev` profile [unoptimized + debuginfo] target(s) in 0.36s
-warning: the following packages contain code that will be rejected by a future version of Rust: net2 v0.2.39, nom v4.2.3
-note: to see what the problems were, use the option `--future-incompat-report`, or run `cargo report future-incompatibilities --id 2`
+ Downloading crates ...
+error: failed to download `idna_adapter v1.2.2`
+
+Caused by:
+  unable to get packages from source
+
+Caused by:
+  failed to download replaced source registry `crates-io`
+
+Caused by:
+  failed to parse manifest at `C:\Users\Asus\.cargo\registry\src\index.crates.io-6f17d22bba15001f\idna_adapter-1.2.2\Cargo.toml`
+
+Caused by:
+  feature `edition2024` is required
+
+  The package requires the Cargo feature called `edition2024`, but that feature is not stabilized in this version of Cargo (1.77.2 (e52e36006 2024-03-26)).
+  Consider trying a newer version of Cargo (this may require the nightly release).
+  See https://doc.rust-lang.org/nightly/cargo/reference/unstable.html#edition-2024 for more information about the status of this feature.
